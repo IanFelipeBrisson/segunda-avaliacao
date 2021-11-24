@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-server",
+			"path": "zuul-server"
+		},
+		{
+			"path": "produtos\\produtos-ms"
+		},
+		{
+			"path": "vendas\\vendas-ms"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
